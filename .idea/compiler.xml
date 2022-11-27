@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="MongoDB_article_replicaSet_auth" target="17" />
+      <module name="MongoDB_article_replicaSet_auth" target="16" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
